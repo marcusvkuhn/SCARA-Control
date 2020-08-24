@@ -1,0 +1,2 @@
+C:\Users\Raymond\source\repos\ROBT1270_Lab6Scara1\x64\Debug\ROBT1270_Lab6Scara1.exe
+C:\Users\Raymond\source\repos\ROBT1270_Lab6Scara1\x64\Debug\ROBT1270_Lab6Scara1.pdb
